@@ -6,4 +6,4 @@ Hello World!
 
 
 ## Section
-Now!
+Now is the time!
